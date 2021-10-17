@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Fonarto
+font link: https://www.behance.net/gallery/20085723/Fonarto-Typeface
+font author: Arwan Sutanto
+font author site: http://artonedigital.com/
+
+
+{"bg":"#D5D7F1","icon-gradient-0":"#0D2175","icon-gradient-1":"#1F1EFB","font":"#0F104F","slogan":"#232463"}
+      
